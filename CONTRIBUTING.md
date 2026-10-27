@@ -2,4 +2,4 @@
 
 All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
-Please submit issues or pull requests.
+Please submit issues and pull requests to help improve this project.
